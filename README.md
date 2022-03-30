@@ -45,7 +45,7 @@ N/A
 <br><br>
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) :
 <br><br>
-The main challenge encountered was understanding the function implementation in javascript. Javascript is case sensitive so I spent quite a bit of time trying to debug my function call. When i figured out it was case sensitive it was a matter of changing the function name.
+The main challenge encountered was understanding the function implementation in javascript as it is a somewhat new language to me. Javascript is case sensitive so I spent quite a bit of time trying to debug my function call. When i figured out it was case sensitive it was a matter of changing the function name.
 <br><br>
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words): 
 <br><br>I have a few questions about web development:
