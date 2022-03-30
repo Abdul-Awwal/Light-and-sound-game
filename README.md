@@ -42,7 +42,6 @@ https://github.com/Abdul-Awwal/Light-and-sound-game/blob/main/Program.gif
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 N/A
-
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) :
 <br>
 The main challenge encountered was understanding the function implementation in javascript. Javascript is case sensitive so I spent quite a bit of time trying to debug my function call. When i figured out it was case sensitive it was a matter of changing the function name.
@@ -50,9 +49,13 @@ The main challenge encountered was understanding the function implementation in 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words): 
 <br>I have a few questions about web development:
 A. How would we go about testing more complex versions of this code with a longer pattern.
+<br>
 B. Is there a way to automate an ai such that the ai guesses the pattern instead of the user?
+<br>
 C. Is there a way to declare a class or structure to make the code more efficient?
+<br>
 D. Would there be more complex applications that use web servers in the actual internship? and
+<br>
 E. What languages would we be focusing on?
 <br>
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
