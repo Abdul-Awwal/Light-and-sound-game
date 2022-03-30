@@ -62,7 +62,7 @@ E. What languages would we be focusing on?
 <br><br>
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 <br><br>
-I would add an additional webpage to load instead of an alert with a trophy image saying you won. Or another webpage with a crying image showing you lost. I could also add a hidden function instead to hide all the buttons and display the hidden you won or lost image to make it more efficient than writing an entirely new page.
+I would add a welcome screen with a bigger icon and start button. Then I would add an additional webpage to load instead of an alert with a trophy image saying you won after winning. Or another webpage with a crying image showing you lost after losing. I could also add a hidden function instead to hide all the buttons and display the hidden you won or lost image to make it more efficient than writing an entirely new page.
 
 
 
