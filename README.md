@@ -44,8 +44,8 @@ https://github.com/Abdul-Awwal/Light-and-sound-game/blob/main/Program.gif
 N/A
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) :
-
-*The main challenge encountered was understanding the function implementation in javascript. Javascript is case sensitive so I spent quite a bit of time trying to debug my function call. When i figured out it was case sensitive it was a matter of changing the function name.
+<br>
+The main challenge encountered was understanding the function implementation in javascript. Javascript is case sensitive so I spent quite a bit of time trying to debug my function call. When i figured out it was case sensitive it was a matter of changing the function name.
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words): 
 *I have a few questions about web development:
 A. How would we go about testing more complex versions of this code with a longer pattern.
