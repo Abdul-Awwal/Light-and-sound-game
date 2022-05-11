@@ -66,9 +66,6 @@ I would add a welcome screen with a bigger icon and start button. Then I would a
 
 
 
-## Interview Recording URL Link
-
-https://drive.google.com/file/d/1oPCi_8hBN7IZaiz64a18xI_Fe41V8xyV/view?usp=sharing
 
 
 ## License
